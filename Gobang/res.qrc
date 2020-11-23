@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/checkerboard.jpg</file>
+        <file>res/icon.png</file>
+        <file>res/black.png</file>
+        <file>res/white.png</file>
+        <file>res/point.png</file>
+    </qresource>
+</RCC>
